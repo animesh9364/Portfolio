@@ -1,7 +1,7 @@
 # Animesh Biswas | Electronics & Telecommunication Engineer
 **Specializing in FPGA Design, VLSI, Embedded Systems and AI/ML**
 
-Welcome to my portfolio. I am a B.Tech student at KIIT University focused on high-performance digital design and IoT integration.
+Welcome to my portfolio. I am a B.Tech student at KIIT University focused on High-performance digital design, AI/ML model development and IoT integration.
 
 ---
 
