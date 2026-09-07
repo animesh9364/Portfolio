@@ -45,9 +45,9 @@ I specialize in the development of intelligent AI/ML models and real-time algori
 
 ### 🛠️ Technical Toolkit
 
-* **Programming Languages:** Python, C, Verilog, Pine Script v6
+* **Programming Languages:** Python, C, Verilog
 * **AI, ML & Data:** PyTorch, Scikit-learn, Pandas, NumPy, Data Analysis & Visualization
-* **Hardware & Embedded:** PYNQ Z2, FPGA (Xilinx Artix-7), ESP32, ADS1256 ADC, PCB Design & Prototyping
+* **Hardware & Embedded:** PYNQ Z2, FPGA (Xilinx Artix-7), ESP32, PCB Design & Prototyping
 * **Software & Tools:** Xilinx Vivado, MATLAB, KiCad, VS Code, Arduino IDE, Git/GitHub
 * **Core Domains:** Machine Learning, Edge AI Inference, EV Power Electronics, MCU Architecture, Signal Conditioning
 
