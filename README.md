@@ -1,5 +1,5 @@
 # Animesh Biswas | Electronics & Telecommunication Engineer
-**Specializing in FPGA Design, VLSI, and Embedded Systems**
+**Specializing in FPGA Design, VLSI, Embedded Systems and AI/ML**
 
 Welcome to my portfolio. I am a B.Tech student at KIIT University focused on high-performance digital design and IoT integration.
 
@@ -9,7 +9,7 @@ Welcome to my portfolio. I am a B.Tech student at KIIT University focused on hig
 ### **[DSP ALU 6-Stage Pipelined Design](https://github.com/animesh9364/DSP-ALU-6-Stage-Pipelined-VLSI)**
 * **Focus:** High-throughput VLSI architecture optimized for Xilinx Artix-7.
 * **Achievement:** Achieved 100 MHz operational frequency and 25mW dynamic power.
-* **Publication:** Accepted for IEEE IC2PCT 2026.
+* **Publication:** IEEE IC2PCT 2026.
 
 ---
 
